@@ -4,3 +4,10 @@ coverage>=7.0
 typing_extensions>=4.10
 openai>=1.0.0
 python-dotenv>=1.0.0
+
+# Phase 2: Web Service Dependencies
+Flask>=3.0.0
+flask-cors>=4.0.0
+mangum>=0.17.0
+boto3>=1.34.0
+botocore>=1.34.0
